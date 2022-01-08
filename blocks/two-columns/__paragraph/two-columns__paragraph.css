@@ -6,6 +6,6 @@
   font-weight: normal;
 }
 
-.two-columns__paragraph:last-child a {
+.two-columns__paragraph:last-child {
   margin: 0;
 }
